@@ -8,6 +8,12 @@
 </head>
 <body>
 
+<!-- remmen, gas loslaten en niks doen -->
+<div class="app">
+    
+</div>
+
+
 <div class= "buttons">
 <button type="button" class="btn btn-outline-primary">keuze1</button>
 <button type="button" class="btn btn-outline-secondary">keuze2</button>
