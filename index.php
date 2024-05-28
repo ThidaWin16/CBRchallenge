@@ -10,16 +10,18 @@
 
 <!-- remmen, gas loslaten en niks doen -->
 <div class="app">
-    
+    <h1>Remmen, gas loslaten, niks doen</h1>
+    <div class="quiz">
+        <h2 id="question">20 meerkeuze vragen</h2>
+        <div id="answer-buttons">
+            <button class="btn"> Answer 1</button>
+            <button class="btn"> Answer 2</button>
+            <button class="btn"> Answer 3</button>
+        </div>
+    </div>
 </div>
 
 
-<div class= "buttons">
-<button type="button" class="btn btn-outline-primary">keuze1</button>
-<button type="button" class="btn btn-outline-secondary">keuze2</button>
-<button type="button" class="btn btn-outline-success">keuze3</button>
-<button type="button" class="btn btn-outline-danger">keuze4</button>
-</div>
 
 </body>
 </html>
