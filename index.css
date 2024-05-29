@@ -1,4 +1,4 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
@@ -18,6 +18,7 @@ body{
     border-radius: 10px;
     padding: 30px;
 }
+
 .app h1{
 font-size: 25px;
 color: #001e4d;
@@ -47,4 +48,24 @@ padding-bottom: 30px;
     text-align: left;
     border-radius:4px;
     cursor: pointer;
+    transition: all 0.3s;
 }
+
+.btn:hover{
+    background: #222;
+    color: #fff;
+}
+
+#next-btn{
+    background: #001e4d;
+    color:#fff;
+    font-weight: 500;
+    width: 150px;
+    border: 0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border-radius:4px;
+    cursor: pointer;
+    display: none; /* the button is hidden 
+    
+} */
