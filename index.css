@@ -18,6 +18,7 @@ body{
     border-radius: 10px;
     padding: 30px;
 }
+
 .app h1{
 font-size: 25px;
 color: #001e4d;
@@ -47,4 +48,10 @@ padding-bottom: 30px;
     text-align: left;
     border-radius:4px;
     cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn:hover{
+    background: #222;
+    color: #fff;
 }

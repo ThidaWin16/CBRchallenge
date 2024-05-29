@@ -11,6 +11,7 @@
 <!-- remmen, gas loslaten en niks doen -->
 <div class="app">
     <h1>Remmen, gas loslaten, niks doen</h1>
+    <img src="public/assets/img/gasremlos.jpeg" alt="autofoto" style="width:540px;height:300px;">
     <div class="quiz">
         <h2 id="question">20 meerkeuze vragen</h2>
         <div id="answer-buttons">
