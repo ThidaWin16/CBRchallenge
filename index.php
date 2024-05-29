@@ -19,6 +19,7 @@
             <button class="btn"> Answer 2</button>
             <button class="btn"> Answer 3</button>
         </div>
+        <button id="next-btn">Next</button>
     </div>
 </div>
 
