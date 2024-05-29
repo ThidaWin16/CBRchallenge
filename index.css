@@ -1,4 +1,4 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
@@ -66,6 +66,6 @@ padding-bottom: 30px;
     margin: 20px auto 0;
     border-radius:4px;
     cursor: pointer;
-    display: none; /* the button is hidden */
+    display: none; /* the button is hidden 
     
-}
+} */

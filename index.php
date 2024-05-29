@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<!-- remmen, gas loslaten en niks doen -->
+<!-- remmen, gas loslaten en niks doen 
 <div class="app">
     <h1>Remmen, gas loslaten, niks doen</h1>
     <img src="public/assets/img/gasremlos.jpeg" alt="autofoto" style="width:540px;height:300px;">
@@ -22,6 +22,11 @@
         <button id="next-btn">Next</button>
     </div>
 </div>
+<script src="script.js"></script> -->
+
+<div class="container"></div>
+<button id = "btn">start</button>
+<script src="app.js"></script>
 
 
 
