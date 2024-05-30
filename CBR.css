@@ -17,8 +17,14 @@ section{
     padding: 80px 13% 70px;
 }
 
-.footer {
-    display: grid;
+.castle {
+    height: 100px;
+    width: 100px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-evenly;
     grid-template-columns: repeat(auto-fit, minmax(200px, auto));
     gap: 3.5rem;
     background: #2060a3;
@@ -27,26 +33,26 @@ section{
     bottom: 0;
 }
 
-.footer-content h4{
+.footer-contents h4{
     color: #fff;
     margin-bottom: 1.5rem;
     font-size: 20px;
 }
-.footer-content li{
+.footer-contents li{
     margin-bottom: 16px;
 }
-.footer-content li a{
+.footer-contents li a{
     display: block;
     color: #d6d6d6;
     font-size: 15px;
     font-weight: 400;
     transition: all .40s ease;
 }
-.footer-content li a:hover{
+.footer-contents li a:hover{
     transform: translateY(-3px) translateX(-5px);
     color: #fff;
 }
-.footer-content p{
+.footer-contents p{
     color: #d6d6d6d6;
     font-size: 16px;
     line-height: 30px;
