@@ -6,9 +6,10 @@
       <meta http-equiv="X-UA-Compatible" content="ie=edge" />
       <title>HTML 5 Boilerplate</title>
       <link rel="stylesheet" href="index.css" />
+      <script src= "app.js"></script>
    </head>
    <body>
-      <button onclick="loadJSON()">Click me</button>
+      <button onclick="loadJSON()">Start test</button>
       <div id="vragenBox">
          <button
             id="opt1"
