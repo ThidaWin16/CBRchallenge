@@ -4,9 +4,11 @@
    let ansNothing = "Doe niets.";
    let answer;
 
+   let ansMultipleText0 = "";
    let ansMultipleText1 = "";
    let ansMultipleText2 = "";
-   let ansMultipleText3 = "";
+
+   let empty = ""
 
 
    let questionIndex = 0;
@@ -44,16 +46,32 @@
          btnOpt2.innerHTML = "NEE";
          btnOpt3.style.display = "none";
       }
-//ik ben bij id 626 voor deze vraag. Bij vragen type 1 is btnOpt1 Wanneer deze zich op de stoep of voetpad bevindt. btnOp2 is Wanneer deze zich op de weg bevindt 
+//Voor elk button kijkt de functie of er tekst in staat.
+//voor knop 1 komt optie0 erin. en het hide de knop als de optie leeg is.
       if (question.type ==1){
-        btnOpt1.innerHTML = ansMultipleText1;
-        btnOpt2.innerHTML = ansMultipleText2;
-        btnOpt3.innerHTML = ansMultipleText3;
+         hideOrDisplayAnswer(btnOpt1, question.options[0]);
+         hideOrDisplayAnswer(btnOpt2, question.options[1]);
+         hideOrDisplayAnswer(btnOpt3, question.options[2]);
       }
    }
+
+   // Laad optie in button en hide button
+   // als optie leeg is
+   function hideOrDisplayAnswer(button, option) {
+      //innerHTML is alle tekst wat in de element staat. BV <p>....</P>
+      button.innerHTML = option;
+      // kijk of option leeg is
+      if (option.trim().length == 0) {
+         // option is empty, dus hide knop
+         button.style.display = "none";
+      } else {
+         
+      }
+   }
+
 // if whichbutton == the rigth answer do answer than it gives correct. If it's not it's incorrect.
-   function checkAnswer(whichButton) {
-      if (whichButton == answer) {
+   function checkAnswer(buttonContents) {
+      if (buttonContents == answer) {
          console.log("Correct");
          //"correct"
       } else {
