@@ -14,7 +14,7 @@
    let questionIndex = 0;
 
    async function loadJSON() {
-      path_to_json = "original_cbr_content/questions_car_nl.json";
+      path_to_json = "remgasniks.json";
 
       let questions;
       // Read JSON file with fetch
@@ -64,9 +64,7 @@
       if (option.trim().length == 0) {
          // option is empty, dus hide knop
          button.style.display = "none";
-      } else {
-         
-      }
+      } 
    }
 
 // if whichbutton == the rigth answer do answer than it gives correct. If it's not it's incorrect.

@@ -1,0 +1,327 @@
+[
+    {
+        "id": "322",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_286a.jpg",
+        "question": "Je rijdt 30 km/u. Wat doe je?",
+        "feedback": "De bestuurder voor je rijdt jouw weghelft op. Je hebt geen ruimte om uit te wijken. Aan de andere kant staat een busje geparkeerd.  ",
+        "options": [
+            "0",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "209",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_186a.jpg",
+        "question": "Je rijdt 120 km/u. Wat doe je?",
+        "feedback": "Je houdt een veilige volgafstand tot de andere bestuurders. Let wel op: de vluchtstrook is geopend.",
+        "options": [
+            "2",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "335",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_296a.jpg",
+        "question": "Je rijdt 120 km/u. Wat doe je?",
+        "feedback": "Je hebt een goed zicht op de weg en er is voldoende afstand tot het overige verkeer. ",
+        "options": [
+            "2",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "161",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_139a.jpg",
+        "question": "Je rijdt 120 km/u. Wat doe je?",
+        "feedback": "De bestuurder rechts van je wilt dicht achter de auto voor je invoegen. Gas loslaten creëert genoeg afstand in de eerste instantie.   ",
+        "options": [
+            "1",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "26",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_016a.jpg",
+        "question": "Je rijdt 20 km/u. Wat doe je?",
+        "feedback": "Er zijn voetgangers aan het oversteken op het zebrapad. Door de bus naast je kun je niet zien of er plots nog meer voetgangers willen oversteken. \r\n",
+        "options": [
+            "0",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "227",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_204a.jpg",
+        "question": "Je rijdt 120 km/u. Wat doe je?",
+        "feedback": "Je houdt voldoende volgafstand en kunt bij eventueel gevaar uitwijken naar de linkerrijstrook. ",
+        "options": [
+            "2",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "288",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_258a.jpg",
+        "question": "Je rijdt 60 km/u. Wat doe je?",
+        "feedback": "De weg voor je is vrij en er is nog genoeg afstand tot de verkeerslichten.  \r\n",
+        "options": [
+            "2",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "102",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_086a.jpg",
+        "question": "Je rijdt 30 km/u. Wat doe je?",
+        "feedback": "Je houdt meer dan voldoende volgafstand en er dreigt geen gevaar. Daarom kun je blijven doorrijden op deze snelheid. ",
+        "options": [
+            "2",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "279",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_251a.jpg",
+        "question": "Je rijdt 120 km/u. Wat doe je?",
+        "feedback": "Je nadert borden die een maximumsnelheidslimiet aangeven van 100 km/u. Gas loslaten om op deze snelheid te komen.  ",
+        "options": [
+            "1",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "318",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_282b.jpg",
+        "question": "Je rijdt 120 km/u. Wat doe je?",
+        "feedback": "Let op de bestuurder naast je die zich naar jouw rijstrook wil gaan verplaatsen.",
+        "options": [
+            "2",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "12",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_011a.jpg",
+        "question": "Je rijdt 50 km/u. Wat doe je?",
+        "feedback": "Je nadert een fietser, pas op, omdat fietsers kwetsbaar zijn. Passeer deze met een lage snelheid. Verder heb je goed zicht op de weg, dus remmen is niet nodig.\n",
+        "options": [
+            "1",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "40",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_027a.jpg",
+        "question": "Je rijdt 30 km/u. Wat doe je?",
+        "feedback": "Het verkeerslicht is geel. Je kunt nog veilig tot stilstand komen voor het verkeerslicht. Remmen.",
+        "options": [
+            "0",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "32",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_022a.jpg",
+        "question": "Je rijdt 80 km/u. Wat doe je?",
+        "feedback": "Je rijdt op een voorrangsweg buiten de bebouwde kom. Je kan daarom 80 km/u blijven rijden; je kunt ver vooruit kijken. \r\n",
+        "options": [
+            "2",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "106",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_090a.jpg",
+        "question": "Je rijdt 80 km/u. Wat doe je?",
+        "feedback": "Op deze weg mag je 80 km/u en er is geen nabij verkeer. Je kan daarom 80 km/u blijven rijden. Na het bord ‘einde 80’ mag je 100 km/u gaan rijden.   ",
+        "options": [
+            "2",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "154",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_132a.jpg",
+        "question": "Je rijdt 30 km/u. Wat doe je?",
+        "feedback": "Je nadert een spoorwegovergang en de ambulance blokkeert jouw overzicht op de weg. Voorkom dat je stil komt te staan op de spoorwegovergang.  ",
+        "options": [
+            "1",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "131",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_111a.jpg",
+        "question": "Je rijdt 30 km/u. Wat doe je?",
+        "feedback": "Er is een drukke verkeerssituatie ontstaan: nader deze met lage snelheid. Er rijden fietsers voor je, er bevindt zich weinig ruimte tussen jou en de tegenliggers, en er is geen ruimte om veilig uit te wijken. ",
+        "options": [
+            "0",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "235",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_212a.jpg",
+        "question": "Je rijdt 120 km/u. Wat doe je?",
+        "feedback": "Je nadert een bord met een aangegeven snelheidslimiet van 90 km/u. Onnodig remmen op de snelweg moet je vermijden. Gas loslaten dus! ",
+        "options": [
+            "1",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "302",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_268b.jpg",
+        "question": "Je rijdt 70 km/u. Wat doe je?",
+        "feedback": "De matrixborden geven een snelheidslimiet van 50 km/u aan. Pas daarom jouw snelheid aan en wees voorbereid op een file of andere gebeurtenis. ",
+        "options": [
+            "1",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "15",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_012a.jpg",
+        "question": "Je rijdt 80 km/u. Wat doe je?",
+        "feedback": "De matrixborden geven een snelheidslimiet van ‘50 km/u’ aan: pas jouw snelheid aan, je rijdt te hard! Ook mag er niet meer op de linkerrijstrook gereden worden, pas dus op voor bestuurders die op jouw rijstrook willen gaan invoegen. ",
+        "options": [
+            "0",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "64",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_049c.jpg",
+        "question": "Je rijdt 35 km/u. Wat doe je?",
+        "feedback": "Het verkeerslicht is rood, dus je moet flink remmen. ",
+        "options": [
+            "0",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "57",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_042a.jpg",
+        "question": "Je rijdt 25 km/u. Wat doe je?",
+        "feedback": "Er staat een verkeersregelaar op de weg voor je en er zijn wegwerkzaamheden. Volg deze instructies op en rem. ",
+        "options": [
+            "0",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "239",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_215a.jpg",
+        "question": "Je rijdt 120 km/u. Wat doe je?",
+        "feedback": "De bestuurder naast je wilt zich verplaatsen naar jouw rijstrook. Laat even het gas los om voldoende afstand te houden en de bestuurder deze manoeuvre veilig te laten uitvoeren.",
+        "options": [
+            "1",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "271",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_244a.jpg",
+        "question": "Je rijdt 80 km/u. Wat doe je?",
+        "feedback": "Je moet vaart maken want je gaat invoegen op een autoweg. De weg voor je is ook vrij, dus je hebt de ruimte om in te voegen. ",
+        "options": [
+            "2",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "34",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_022c.jpg",
+        "question": "Je rijdt 50 km/u. Wat doe je?\r\n",
+        "feedback": "De tegemoetkomende auto wilt afslaan, pas op dat je niet te hard rakelings voorbij deze auto rijdt. Er bevindt zich maar een kleine afstand tussen jullie. \r\n",
+        "options": [
+            "1",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "309",
+        "category": "J",
+        "type": "4",
+        "image": "gvr_275a.jpg",
+        "question": "Je rijdt 120 km/u. Wat doe je?",
+        "feedback": "Je rijdt erg dicht op de bestuurder voor je. Er is weinig ruimte om uit te wijken. Rem om de volgafstand flink te vergroten.  ",
+        "options": [
+            "1",
+            "",
+            ""
+        ]
+    }
+]
