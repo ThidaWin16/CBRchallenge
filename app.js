@@ -1,6 +1,6 @@
 
    let ansBreak = "Remmen.";
-   let ansRelease = "Laat gas los.";
+   let ansRelease = "Gas loslaten.";
    let ansNothing = "Doe niets.";
    let answer;
 
