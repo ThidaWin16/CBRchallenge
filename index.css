@@ -1,4 +1,4 @@
-/* * {
+* {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
@@ -10,7 +10,7 @@ body{
 
 }
 
-.app{
+.titel{
     background: #fff;
     width: 90%;
     max-width: 600px;
@@ -19,7 +19,7 @@ body{
     padding: 30px;
 }
 
-.app h1{
+.titel h1{
 font-size: 25px;
 color: #001e4d;
 font-weight: 600;
@@ -27,48 +27,34 @@ border-bottom: 1px solid #333;
 padding-bottom: 30px;
 }
 
-.quiz{
+button{
     padding: 20px 0;
 }
 
-.quiz h2{
+button h2{
     font-size: 18px;
     color: #001e4d;
     font-weight: 600;
 }
 
-.btn{
+button{
     background: #fff;
     color: #222;
     font-weight: 500;
-    width: 100%;
+    width: 42%;
     border: 1px solid #222;
-    padding: 10px;
-    margin: 10px 0;
-    text-align: left;
+    padding: 20px;
+    margin: 10px 400px 10px;
+    text-align: center;
     border-radius:4px;
     cursor: pointer;
     transition: all 0.3s;
 }
 
-.btn:hover{
+button:hover{
     background: #222;
     color: #fff;
 }
-
-#next-btn{
-    background: #001e4d;
-    color:#fff;
-    font-weight: 500;
-    width: 150px;
-    border: 0;
-    padding: 10px;
-    margin: 20px auto 0;
-    border-radius:4px;
-    cursor: pointer;
-    display: none; /* the button is hidden 
-    
-} */
 
 * {
     margin: 0;
@@ -76,5 +62,6 @@ padding-bottom: 30px;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+
 
 

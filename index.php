@@ -9,6 +9,11 @@
       <script src= "app.js"></script>
    </head>
    <body>
+
+   <div class= "titel">
+   <h1>Remmen, gas loslaten of niks doen  </h1>
+   <img src="public/assets/img/gasremlos.jpeg" alt="autofoto" style="width:540px;height20px;"> 
+   </div>
       <button onclick="loadJSON()">Start test</button>
       <div id="vragenBox">
          <button
