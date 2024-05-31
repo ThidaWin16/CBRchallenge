@@ -142,10 +142,10 @@ section{
     color: #fff;
 }
 .button--block{
-    width: 80%;
+    width: 50%;
     display: inline-block;
     position: relative;
-    left: 200px;
+    left: 40px;
 }
 /*Media quesry is when screen is getting larger then 1024px*/
 @media screen and (min-width:1024px) {
